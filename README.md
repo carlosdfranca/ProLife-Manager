@@ -28,7 +28,7 @@ git clone https://github.com/seu-usuario/prolife-manager.git
 cd prolife-manager
 ```
 
-2. Crie um dataframe vazio no Mysql Workbenck com nome "profile-manager"
+2. Crie um dataframe vazio no Mysql Workbenck com nome "prolifemanager"
 
 3. Crie um ambiente virtual e ative-o:
 ```bash
