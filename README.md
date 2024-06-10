@@ -20,8 +20,6 @@ O **ProLife Manager** é uma aplicação web desenvolvida com Django, projetada 
 
 - **Dieta**: Planejamento e monitoramento de dietas, com sugestões de refeições e controle de ingestão nutricional.
 
-- **Lista de Compras**: Ferramenta para criar e gerenciar a lista de compras mensais.
-
 - **Hábitos**: Ferramenta para ajudar a adquirir ou se livrar de hábitos.
 
 - **Finanças**: Área de gerenciamento das suas finanças pessoais.
