@@ -6,12 +6,27 @@ O **ProLife Manager** é uma aplicação web desenvolvida com Django, projetada 
 
 ## Funcionalidades
 
+- **Metas e Objetivos**: Ferramenta para colcar as suas metas e objetivos de curto, médio e longo prazo. 
+
 - **Aumento de Produtividade no Trabalho**: Ferramentas para gerenciar e priorizar tarefas profissionais, mantendo o foco e a eficiência.
+
 - **Organização de Tarefas**: Criação e monitoramento de listas de tarefas personalizadas, com opções de categorização e prazos.
+
 - **Agenda de Tarefas**: Integração com um calendário para agendar e acompanhar compromissos e eventos importantes.
+
 - **Lista de Compras**: Funcionalidade para criar e compartilhar listas de compras, facilitando a organização das necessidades diárias.
+
 - **Dia a Dia na Academia**: Registro e acompanhamento de treinos, metas e progressos físicos.
+
 - **Dieta**: Planejamento e monitoramento de dietas, com sugestões de refeições e controle de ingestão nutricional.
+
+- **Lista de Compras**: Ferramenta para criar e gerenciar a lista de compras mensais.
+
+- **Hábitos**: Ferramenta para ajudar a adquirir ou se livrar de hábitos.
+
+- **Finanças**: Área de gerenciamento das suas finanças pessoais.
+
+- **Lista de desejos**: Ferramenta para se lembrar de livros, filmes e séries que pretende ver.
 
 ## Tecnologias Utilizadas
 
