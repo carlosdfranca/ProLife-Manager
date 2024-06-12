@@ -1,7 +1,6 @@
 def sidebar_collapsed(request):
 
     url_da_pagina = str(request.build_absolute_uri())
-    print(url_da_pagina)
 
     in_trabalho = False
     in_pessoal = False
@@ -13,8 +12,6 @@ def sidebar_collapsed(request):
 
     for item in lista_trabalho:
         if item in url_da_pagina:
-            print(item)
-            print(url_da_pagina)
             in_trabalho = True
             pagina_url = item
 
