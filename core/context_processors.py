@@ -1,6 +1,7 @@
 def sidebar_collapsed(request):
 
     url_da_pagina = str(request.build_absolute_uri())
+    print(url_da_pagina)
 
     in_trabalho = False
     in_pessoal = False
